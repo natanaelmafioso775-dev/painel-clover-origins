@@ -1,0 +1,106 @@
+📱 SLIM HUB — Painel Roblox
+
+✅ FUNCIONA EM CELULAR? SIM!
+
+O Slim Hub usa a biblioteca Rayfield UI, que tem suporte NATIVO a dispositivos móveis. Todos os botões, sliders e toggles funcionam perfeitamente via toque. Interface adaptável e responsiva.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 SOBRE:
+
+O Slim Hub ("Tycoon Hub") é um script all-in-one com 7 abas de funcionalidades para Roblox. Ideal para farm, quests, combate e stats.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ FUNCIONALIDADES COMPLETAS:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1️⃣ QUESTS (Missões) ─ Auto Quest
+✔️ Pega todas as 12 missões automaticamente em loop
+✔️ Delay entre ciclos ajustável (1s a 60s)
+✔️ Missões: Bandit Boss, Bandit, Boar Boss, Boar, Corrupt Dark Wizard, Corrupted Wizards, Orc King, Orc, Corrupted Nobleman, Earth Wizard, Water Wizard, Wheat
+✔️ Modo individual: ative cada missão separadamente
+✔️ Botão "Pegar Todas" manual
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2️⃣ COMBAT ─ Kill Aura + Combo
+✔️ Kill Aura com alcance de 10 a 500 studs
+✔️ Velocidade de ataque ajustável (0.05s a 2s por hit)
+✔️ Dano base: 100 a 10.000
+✔️ Combo automático: M1 → M2 → M3 → M4 → M5
+✔️ Auto Detect Tool: lê AttackSpeed e MaxCombo da arma equipada
+✔️ Modo "NPC mais próximo" ou "Todos no range"
+✔️ Ataque manual em NPC específico ou em múltiplos
+✔️ Reset rápido para configurações padrão
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3️⃣ QUEST GIVERS ─ Teleporte
+✔️ Teleporta automaticamente para o quest giver mais próximo
+✔️ Botão individual para cada quest giver com teleporte + quest
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4️⃣ STATS ─ Auto Alocar Atributos
+✔️ Auto Stats em loop para: Melee, Blade, Magic, Mana, Defense
+✔️ Ordem de alocação personalizável
+✔️ Pontos por envio: 1 a 100
+✔️ Delay entre stats: 0.05s a 5s
+✔️ Alocação manual + alocação em massa (até 500 pts)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5️⃣ AUTO FARM ─ Farm Inteligente
+✔️ Farm automático com teleporte contínuo ao mob
+✔️ Nome do mob digitável (recomendado) ou dropdown
+✔️ 3 posições de teleporte: Em cima, Embaixo, Atrás
+✔️ Offset de distância ajustável (1 a 30 studs)
+✔️ Troca automática de alvo quando o mob morre
+✔️ Opcional: atacar o mob enquanto farma
+✔️ Delay do teleporte ajustável (0.05s a 2s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6️⃣ AUTO SPIN ─ Grimórios Inteligente
+✔️ Auto Spin com filtro de raridade
+✔️ Raridades: Common, Uncommon, Rare, Epic, Legendary, Mythic
+✔️ Decisão automática: Keep se >= raridade mínima, Reroll se não
+✔️ Limite de spins configurável (0 = ilimitado)
+✔️ Delay entre spins: 1s a 15s
+✔️ Pity Counter: Epic a cada 50 spins, Legendary a cada 650
+✔️ Botões manuais: Keep forçado, Reroll forçado
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ LOADSTRING PARA EXECUTAR:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/natanaelmafioso775-dev/painel-clover-origins/main/painel.lua"))()
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ REQUISITOS E COMPATIBILIDADE:
+✔️ Funciona em PC e CELULAR (Mobile)
+✔️ Executores compatíveis: Synapse, Krnl, Fluxus, Arceus X, ScriptWare, etc.
+✔️ Interface leve e otimizada (não trava o jogo)
+✔️ Código com coroutines para execução fluida
+✔️ Interface Rayfield UI moderna e intuitiva
+✔️ Sistema de notificações integrado
+✔️ Atualizações em tempo real dos sliders
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📎 LINKS:
+📌 GitHub: https://github.com/natanaelmafioso775-dev/painel-clover-origins
+📌 Versão: 2.0
+📌 Criado por: Chad
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 DICAS DE USO:
+1 - Comece ativando Auto Quest para acumular missões
+2 - Configure o Kill Aura conforme seu dano
+3 - Use Auto Farm para subir de nível rápido
+4 - Ative Auto Stats para distribuir pontos automaticamente
+5 - Use Auto Spin para buscar grimórios raros
