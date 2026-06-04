@@ -1,0 +1,7 @@
+=== LOADSTRING PARA EXECUTOR ROBLOX ===
+
+Copie e cole no seu executor:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/natanaelmafioso775-dev/painel-clover-origins/main/painel.lua"))()
+
+=========================================
